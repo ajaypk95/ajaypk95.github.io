@@ -10,5 +10,7 @@
           email: ajaypkv1253@gmail.com
           
           
-##  Day 1 ( aug 2)
+##  Day 1
+  # Introduction about 'FAB Lab'
+  
 ##  Day 2 ( aug 3)
